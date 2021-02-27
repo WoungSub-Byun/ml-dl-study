@@ -36,7 +36,7 @@
 
 예를 들면
 
-![mlslimg1]('./images/mlslimg1.png')
+![mlslimg1](./images/mlslimg1.png)
 
 위의 사진은 지도학습을 통해 개와 고양이, 머그컵, 모자를 구별하는 머신러닝 모델을 만드는 방법을 요약한 것입니다.
 
@@ -68,17 +68,17 @@
 지도학습에서 나온 결과에 따라 종류를 나눌 수 있습니다.
 
 -   regression - 회귀 - 걸린 시간에 따른 시험 점수 예측
-    ![regressiontds]('./images/regressiontds.png')
+    ![regressiontds](./images/regressiontds.png)
 
 결과가 숫자로 나오는 것을 바로 회귀 모델이라고 부릅니다.'
 
 -   binary classification - 이진 분류 - 걸린 시간에 따른 합격/불합격 예측
-    ![bctds]('./images/bctds.png')
+    ![bctds](./images/bctds.png)
 
 결과가 합격/불합격과 같이 두개로 나뉘는 것을 이진분류라고 부릅니다.
 
 -   multi-label classification - 다중 레이블 분류 - 걸린 시간에 따른 학점(A, B, C, E, F) 예측
-    ![mbctds]('./images/mbctds.png')
+    ![mbctds](./images/mbctds.png)
 
 결과가 여러 개로 나뉘지만 정해져있는 레이블중에서 분류되는 것을 다중 레이블 분류라고 부릅니다.
 
