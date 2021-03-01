@@ -5,3 +5,4 @@
 > ### 디렉토리
 >
 > -   모두를 위한 딥러닝
+> -   [데이터 사이언스 스쿨](https://datascienceschool.net/intro.html)
